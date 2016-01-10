@@ -1,0 +1,6 @@
+[vagrant]
+192.168.178.66
+
+[vagrant:vars]
+vhostTemplatePath=templates/wordpress
+mysqlTemplatePath=templates/mysql
